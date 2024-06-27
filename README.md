@@ -1,4 +1,3 @@
-```markdown
 # Sitemate Challenge
 
 This is a simple client-server application built as a challenge. The server is built with Node.js and Express, and uses a local JSON file (`issues.json`) for persistent storage. The client is built with React. I wanted to include a MongoDB database but never had the time.
