@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sitemate-challenge">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sitemate-challenge.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
